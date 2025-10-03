@@ -1,5 +1,4 @@
 ---
-
 ## ✅ Folder & File Naming in a Next.js Project
 
 ### 🔧 **Folder Naming (Use `lowercase-with-hyphens`)**
@@ -118,4 +117,3 @@ my-nextjs-app/
 | Components     | `PascalCase.jsx`                  | `UserCard.jsx`                   |
 | Utils / Config | `camelCase.js` or `kebab-case.js` | `apiClient.js`, `format-date.js` |
 
----
