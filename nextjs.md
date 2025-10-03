@@ -4,11 +4,11 @@
 ### 🔧 **Folder Naming (Use `lowercase-with-hyphens`)**
 
 This is ideal for:
-* `/components`
-* `/pages`
-* `/lib`
-* `/utils`
-* Any custom folders you create (e.g., `user-profile`, `admin-dashboard`)
+  - `/components`
+  - `/pages`
+  - `/lib`
+  - `/utils`
+  - Any custom folders you create (e.g., `user-profile`, `admin-dashboard`)
 
 **✅ Examples**:
 
