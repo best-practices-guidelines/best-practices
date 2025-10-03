@@ -3,7 +3,7 @@
 
 | Sr. No | Section                    | Link                        | Description                                                |
 |--------|----------------------------|-----------------------------|------------------------------------------------------------|
-| 1      | Project Overview           | [#project-overview](#project-overview)           | High-level description of the project, goals, and scope    |
+| 1      | Project Overview           | [project-overview](#project-overview)           | High-level description of the project, goals, and scope    |
 | 2      | Folder Structure           | [#folder-structure](#folder-structure)           | Explanation of the directory layout and key folders        |
 | 3      | Installation & Setup       | [#installation--setup](#installation--setup)     | Steps to install dependencies and configure the project    |
 | 4      | Running the Project        | [#running-the-project](#running-the-project)     | Instructions to run the app in development mode           |
