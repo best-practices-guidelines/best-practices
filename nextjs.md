@@ -1,9 +1,10 @@
----
+
 ## ✅ Folder & File Naming in a Next.js Project
 
 ### 🔧 **Folder Naming (Use `lowercase-with-hyphens`)**
 
 This is ideal for:
+
   - `/components`
   - `/pages`
   - `/lib`
@@ -21,7 +22,6 @@ This is ideal for:
 /utils/format-date
 ```
 
----
 
 ### 📄 **File Naming (Use `lowercase-hyphenated` OR `camelCase` depending on usage)**
 
