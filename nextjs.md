@@ -4,7 +4,6 @@
 ### 🔧 **Folder Naming (Use `lowercase-with-hyphens`)**
 
 This is ideal for:
-
 * `/components`
 * `/pages`
 * `/lib`
